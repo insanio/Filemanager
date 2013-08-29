@@ -44,7 +44,7 @@
     "modified": "Изменён",
     "name": "Имя",
     "new_filename": "Введите новое имя файла",
-    "new_folder": "New folder",
+    "new_folder": "Новая папка",
     "no": "Нет",
     "no_foldername": "Не введено имя папки.",
     "parentfolder": "На уровень выше",
